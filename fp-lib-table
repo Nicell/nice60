@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name amtra5_outline)(type KiCad)(uri ${KIPRJMOD}/amtra5_outline.pretty)(options "")(descr ""))
+  (lib (name MX_Only)(type KiCad)(uri ${KIPRJMOD}/MX_Only.pretty)(options "")(descr ""))
+  (lib (name promicro)(type KiCad)(uri ${KIPRJMOD}/promicro.pretty)(options "")(descr ""))
+  (lib (name Type-C)(type KiCad)(uri ${KIPRJMOD}/Type-C.pretty)(options "")(descr ""))
+  (lib (name nice60)(type KiCad)(uri ${KIPRJMOD}/nice60.pretty)(options "")(descr ""))
+)
