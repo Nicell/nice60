@@ -430,7 +430,7 @@ F 3 "" H 5575 1600 50  0001 C CNN
 	1    5575 1600
 	1    0    0    -1  
 $EndComp
-Text GLabel 5650 2375 1    50   Input ~ 0
+Text GLabel 5650 2400 1    50   Input ~ 0
 VBUS
 Text GLabel 6150 3000 2    50   Input ~ 0
 D-
