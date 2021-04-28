@@ -1,8 +1,9 @@
-# nice60
+# This version of the nice!60 is the old DIY version and is superseded by a new closed source version, which is fully assembled is much more polished. A link to purchase the new version will be added when it's available to purchase (soon!).
+## nice60
 
 The nice60 is a hotswap 60% board compatible with Pro Micro footprint boards. This includes the nice!nano, which supports bluetooth.
 
-# BOM
+### BOM
 Most parts come from LCSC.
 
 |Qty |Reference(s)   |Value              |LCSC#/Location     |
@@ -20,7 +21,7 @@ Most parts come from LCSC.
 |6/12|N/A            |M2x7mm Standoffs   |Buy from Aliexpress|
 |1   |USB Cable      |Match Pro Micro USB|Anywhere           |
 
-# PCB
+### PCB
 
 There are three gerber zips for PCBs.
 
