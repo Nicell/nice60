@@ -1,5 +1,5 @@
-# This version of the nice!60 is the old DIY version and is superseded by a new version, which is fully assembled and is much more polished.
-# Read more about this new version and find where to purchase it at https://nicekeyboards.com/nice-60
+# This is the old DIY version of the nice!60. This is superseded by a new version, which is fully assembled and much more polished.
+# Read more about this new version, and find where to purchase it at https://nicekeyboards.com/nice-60.
 ## nice60
 
 The nice60 is a hotswap 60% board compatible with Pro Micro footprint boards. This includes the nice!nano, which supports bluetooth.
